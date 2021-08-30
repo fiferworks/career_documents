@@ -3,24 +3,55 @@ title: "Austin N Fife - Letter of Qualification"
 output: pdf_document
 ---
 
-- Experience in working with tabular data. 
-- Experience with spreadsheet software.
-- Experience with written communications such as reports, manuscripts, conference abstracts, and grant applications.
-- Experience using git for version control.
-- Experience in bulk import of files, merging data sets, automated error checking using command line software such as R, bash, python, or OpenRefine.
-- Experience in R Programming with R base commands and the R Tidyverse.
-- Experience collaborating with others.
-Required Education	
-Required Licensures, Certifications or other	
-Additional Preferred	
-- Experience in instructional delivery.
-- Experience manipulating regular expressions.
-- Experience in data validation.
-- Familiarity with agricultural cropping systems.
-- Previous experience working with databases.
-- Knowledge and experience using regular expressions.
-- Ability to work and solve problems independently.
-- Effective verbal communication skills.
-Physical Requirements	
-Working Conditions	
-- Remote candidates who are unable to work on campus must have access to a Zoom-capable internet connection.
+I have experience curating data from lab and field studies during my graduate degrees in Entomology. I used R and the tidyverse packages frequently to clean and validate data, including a large project with 'dirty' data, which was comprised of over 50 .csv files which were imported en mass and merged into a single data sheet for analysis.
+
+#### Experience in working with tabular data.
+I have experience creating, curating, manipulating and analyzing tabular data in R and Excel almost daily with various tidyverse packages for the execution of over six scientific research projects.
+
+#### Experience with spreadsheet software.
+I use Excel, Google Sheets frequently, and Libre/Open Office occasionally.
+
+#### Experience with written communications such as reports, manuscripts, conference abstracts, and grant applications.
+I have published a technical report, I have a manuscript in revisions for the Journal of Integrated Pest Management, I have created and presented conference abstracts at over six scientific conferences, and I have written a few grant applications, one of which was funded (see CV).
+
+#### Experience using git for version control.
+I rely on git and GitHub daily for version control of my code, data, and manuscripts.
+
+#### Experience in bulk import of files, merging data sets, automated error checking using command line software such as R, bash, python, or OpenRefine.
+I have imported large numbers of files, merged data sets and checked for errors with R and the tidyverse package for each of my major research projects. I also am familiar with bash, and have a basic understanding of Python.
+
+#### Experience in R Programming with R base commands and the R Tidyverse.
+I program with R daily to accomplish my research needs. I rely on a combination of base R functions, and I use the R Tidyverse for the majority of my research projects.
+
+#### Experience collaborating with others.
+I have collaborated frequently with over 10 principal investigators from regional universities, state and governmental agencies.
+
+Preferred qualifications:
+
+#### Experience in instructional delivery.
+I presented topics on Support Vector Machines and Principal Component Analysis for a book club I attended about Data Science, AI, Machine Learning, and Deep Learning in R. I have tutored Spanish conversation classes. I presented research to various audiences, including scientists, stakeholders and the public at over 11 conferences, and club meetings. I taught a class at local 4-H club, organized activities and encouraged handling of live insects during the 6th and 7th Tallahassee Science Festivals, led activities at two NFREC-Quincy Arts \& Garden Festivals as well as NFREC Agriculture Adventures and Ecology Field days
+
+#### Experience manipulating regular expressions.
+
+
+#### Experience in data validation.
+I have experience validating data types in R
+
+#### Familiarity with agricultural cropping systems.
+My MSc in Entomology was in an agricultural cropping system in the Pacific Northwest.
+
+
+<!-- #### Previous experience working with databases. -->
+<!-- I haven't worked with databases specifically. -->
+
+#### Knowledge and experience using regular expressions.
+I have knowledge and some experience using regular expressions to edit string values in my work.
+
+#### Ability to work and solve problems independently.
+I worked on the survey on my own, as well as the work in Griffin.
+
+#### Effective verbal communication skills.
+I have presented orally.
+
+#### Remote candidates who are unable to work on campus must have access to a Zoom-capable internet connection.
+I am willing to move.
