@@ -1,0 +1,26 @@
+---
+title: "Austin N Fife - Letter of Qualification"
+output: pdf_document
+---
+
+- Experience in working with tabular data. 
+- Experience with spreadsheet software.
+- Experience with written communications such as reports, manuscripts, conference abstracts, and grant applications.
+- Experience using git for version control.
+- Experience in bulk import of files, merging data sets, automated error checking using command line software such as R, bash, python, or OpenRefine.
+- Experience in R Programming with R base commands and the R Tidyverse.
+- Experience collaborating with others.
+Required Education	
+Required Licensures, Certifications or other	
+Additional Preferred	
+- Experience in instructional delivery.
+- Experience manipulating regular expressions.
+- Experience in data validation.
+- Familiarity with agricultural cropping systems.
+- Previous experience working with databases.
+- Knowledge and experience using regular expressions.
+- Ability to work and solve problems independently.
+- Effective verbal communication skills.
+Physical Requirements	
+Working Conditions	
+- Remote candidates who are unable to work on campus must have access to a Zoom-capable internet connection.
