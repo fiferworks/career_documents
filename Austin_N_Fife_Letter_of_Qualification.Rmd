@@ -5,16 +5,16 @@ output: pdf_document
 
 Dear Members of the Search Committee:
 
-My name is Austin Fife and I believe that my experience curating data with R and the Tidyverse during my graduate research in Entomology make me a strong candidate for the position of Data Curation Technician - SP002970P:
+My name is Austin Fife and I believe that my experience curating data with R and the Tidyverse make me a strong candidate for the position of Data Curation Technician - SP002970P:
 
 #### Experience in working with tabular data.
-I used R and the tidyverse packages frequently to create, curate, manipulate, analyze and validate data, including a large project with 'dirty' data, which was comprised of over 50 .csv files which were imported en mass and merged into a single data sheet for analysis. I have worked with these tools for the execution of over six scientific research projects for six years.
+I used R and the tidyverse packages frequently to create, curate, manipulate, analyze and validate data, during my MSc and PhD in Entomology. I often clean and managed multiple files simultaneously, for example, I had recently had to clean and combine over 50 .csv files of 'dirty data', which were imported en mass, cleaned and merged into a single data sheet for analysis. I have worked with tabular data with R and the Tidyverse packages for the execution of over six scientific research projects for six years.
 
 #### Experience with spreadsheet software.
 I have used multiple spreadsheet software including Excel, Google Sheets, and Libre/Open Office over the last ten years to record experimental data from agricultural experiments and various other projects.
 
 #### Experience with written communications such as reports, manuscripts, conference abstracts, and grant applications.
-I have written multiple technical documents of varying lengths and formats, and my research has been published on a regular basis. I have published 2 journal articles in peer-reviewed journals, a technical report, and I have a manuscript in revisions for the Journal of Integrated Pest Management. I have created and presented conference abstracts at over six scientific conferences, and I have written a few grant applications, one of which was funded (see CV).
+I have extensive experience writing technical documents of varying lengths and formats: My research has been published on a regular basis, including 2 journal articles in peer-reviewed journals, a technical report, and  a manuscript in revisions for the Journal of Integrated Pest Management. I also have created and presented conference abstracts at over six scientific conferences, and I have written a few grant applications, one of which was funded (see CV).
 
 #### Experience using git for version control.
 I have been actively relying on git and GitHub daily for the past year for version control of my code, data, and manuscripts related to my research.
