@@ -1,79 +1,102 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.28)  27 AUG 2021 00:20
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.9.29)  6 OCT 2021 12:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Fife_Cover_Letter.tex
-(./Fife_Cover_Letter.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18>
-(c:/texlive/2021/texmf-dist/tex/latex/base/letter.cls
-Document Class: letter 2020/03/11 v1.3b Standard LaTeX document class
-(c:/texlive/2021/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+**Austin_N_Fife_Cover_Letter.tex
+(./Austin_N_Fife_Cover_Letter.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/letter.cls
+Document Class: letter 2014/09/29 v1.2z Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\longindentation=\dimen138
-\indentedwidth=\dimen139
-\labelcount=\count175
+\longindentation=\dimen134
+\indentedwidth=\dimen135
+\labelcount=\count163
 )
-(c:/texlive/2021/texmf-dist/tex/latex/psnfss/helvet.sty
-Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 
-(c:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
+\KV@toks@=\toks14
 ))
-(c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks15
+\MT@count=\count164
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen136
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count165
 
-(|extractbb --version)
-\c__kernel_sys_dvipdfmx_version_int=\count176
-\l__color_backend_stack_int=\count177
-\g__color_backend_stack_int=\count178
-\g__graphics_track_int=\count179
-\l__pdf_internal_box=\box47
-\g__pdf_backend_object_int=\count180
-\g__pdf_backend_annotation_int=\count181
-\g__pdf_backend_link_int=\count182
-) (./Fife_Cover_Letter.aux)
-\openout1 = `Fife_Cover_Letter.aux'.
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-xetex.def
+File: microtype-xetex.def 2019/11/18 v2.7d Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 258.
+)
+Package microtype Info: Loading configuration file microtype.cfg.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-02-03 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count166
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count167
+\g__pdf_backend_annotation_int=\count168
+)
+(./Austin_N_Fife_Cover_Letter.aux)
+\openout1 = `Austin_N_Fife_Cover_Letter.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-5.
+7.
 
-(c:/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Info: Redefining \microtypecontext on input line 37.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
+File: mt-LatinModernRoman.cfg 2013/03/13 v1.0 microtype config. file: Latin Mod
+ern Roman (RS)
+)
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
 [1
 
-] (./Fife_Cover_Letter.aux) ) 
+] (./Austin_N_Fife_Cover_Letter.aux) ) 
 Here is how much of TeX's memory you used:
- 412 strings out of 476919
- 8649 string characters out of 5825424
- 309438 words of memory out of 5000000
- 20482 multiletter control sequences out of 15000+600000
- 403438 words of font info for 28 fonts, out of 8000000 for 9000
+ 1684 strings out of 479819
+ 32315 string characters out of 5895846
+ 305511 words of memory out of 5000000
+ 18854 multiletter control sequences out of 15000+600000
+ 532346 words of font info for 25 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 53i,4n,60p,695b,117s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 33i,4n,42p,704b,114s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Fife_Cover_Letter.pdf (1 page).
+Output written on Austin_N_Fife_Cover_Letter.pdf (1 page).
