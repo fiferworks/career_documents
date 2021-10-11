@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.17)  11 OCT 2021 10:20
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.17)  11 OCT 2021 14:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Austin_N_Fife_Cover_Letter.tex
-(./Austin_N_Fife_Cover_Letter.tex
+**Fife_Professional_References.tex
+(./Fife_Professional_References.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-08-27>
 (c:/texlive/2021/texmf-dist/tex/latex/base/letter.cls
@@ -52,8 +52,8 @@ File: l3backend-xetex.def 2021-08-04 L3 backend support: XeTeX
 \g__pdf_backend_object_int=\count185
 \g__pdf_backend_annotation_int=\count186
 \g__pdf_backend_link_int=\count187
-) (./Austin_N_Fife_Cover_Letter.aux)
-\openout1 = `Austin_N_Fife_Cover_Letter.aux'.
+) (./Fife_Professional_References.aux)
+\openout1 = `Fife_Professional_References.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
@@ -88,20 +88,45 @@ Package microtype Info: No adjustment of kerning.
 File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
 ern Roman (RS)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 43--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--89
 
  []
 
 [1
 
-] (./Austin_N_Fife_Cover_Letter.aux) ) 
-Here is how much of TeX's memory you used:
- 1769 strings out of 476493
- 34279 string characters out of 5820669
- 376413 words of memory out of 5000000
- 22244 multiletter control sequences out of 15000+600000
- 403446 words of font info for 29 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 42i,5n,53p,1247b,130s stack positions out of 5000i,500n,10000p,200000b,80000s
+]
+Underfull \hbox (badness 10000) in paragraph at lines 90--100
 
-Output written on Austin_N_Fife_Cover_Letter.pdf (1 page).
+ []
+
+[2] (./Fife_Professional_References.aux) ) 
+Here is how much of TeX's memory you used:
+ 1761 strings out of 476493
+ 34155 string characters out of 5820669
+ 364419 words of memory out of 5000000
+ 22241 multiletter control sequences out of 15000+600000
+ 403438 words of font info for 28 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 42i,5n,53p,172b,146s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Fife_Professional_References.pdf (2 pages).
