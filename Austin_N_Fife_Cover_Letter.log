@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.17)  11 OCT 2021 10:20
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.17)  13 OCT 2021 15:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -92,6 +92,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
+
+Overfull \hbox (15.05939pt too wide) in paragraph at lines 53--54
+[]\TU/lmr/m/n/10.95 In conclusion, I am confident that my experience with biolo
+gical control, arthropod-plant-pathosystems,
+ []
+
 [1
 
 ] (./Austin_N_Fife_Cover_Letter.aux) ) 
@@ -102,6 +108,6 @@ Here is how much of TeX's memory you used:
  22244 multiletter control sequences out of 15000+600000
  403446 words of font info for 29 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 42i,5n,53p,1247b,130s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,5n,53p,1419b,130s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Austin_N_Fife_Cover_Letter.pdf (1 page).
