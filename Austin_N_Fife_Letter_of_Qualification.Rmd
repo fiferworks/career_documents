@@ -3,7 +3,7 @@ output: pdf_document
 ---
 Dear Members of the Search Committee:
 
-My name is Austin Fife and I believe that my expertise with arthropod-plant-pathosystems, insect/mite identification, statistical analysis with R software, and knowledge of chemical ecology make me a strong candidate for the position of Research Associate - SP003058P:
+My name is Austin N. Fife and I believe that my expertise with arthropod-plant-pathosystems, insect/mite identification, statistical analysis with R software, and knowledge of chemical ecology make me a strong candidate for the position of Research Associate - SP003058P:
 
 
 ### Required Experience	
